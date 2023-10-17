@@ -5,6 +5,7 @@ import PracticeComp2 from "./components/PracticeComp2";
 import PracticeComp3 from "./components/PracticeComp3";
 import ComplexJsx from "./components/ComplexJsx";
 import ComplexJsx2 from "./components/ComplexJsx2";
+import ComplexJsx3 from "./components/ComplexJsx3";
 
 function App() {
   document.getElementById('root')
@@ -18,6 +19,7 @@ function App() {
       <PracticeComp3> </PracticeComp3>
       <ComplexJsx></ComplexJsx>
       <ComplexJsx2></ComplexJsx2>
+      <ComplexJsx3></ComplexJsx3>
     </div>
   );
 }
