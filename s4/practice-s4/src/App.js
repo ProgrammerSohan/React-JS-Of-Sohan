@@ -2,6 +2,7 @@
 import ExpenseItem from "./components/ExpenseItem";
 import PracticeComp1 from "./components/PracticeComp1";
 import PracticeComp2 from "./components/PracticeComp2";
+import PracticeComp3 from "./components/PracticeComp3";
 
 function App() {
   document.getElementById('root')
@@ -12,6 +13,7 @@ function App() {
       <ExpenseItem> </ExpenseItem>
       <PracticeComp1></PracticeComp1>
       <PracticeComp2></PracticeComp2>
+      <PracticeComp3> </PracticeComp3>
     </div>
   );
 }
