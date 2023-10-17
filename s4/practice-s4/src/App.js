@@ -1,6 +1,7 @@
 
 import ExpenseItem from "./components/ExpenseItem";
 import PracticeComp1 from "./components/PracticeComp1";
+import PracticeComp2 from "./components/PracticeComp2";
 
 function App() {
   document.getElementById('root')
@@ -10,6 +11,7 @@ function App() {
       <p> This is Sohan & React Js </p>
       <ExpenseItem> </ExpenseItem>
       <PracticeComp1></PracticeComp1>
+      <PracticeComp2></PracticeComp2>
     </div>
   );
 }
